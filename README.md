@@ -45,7 +45,6 @@ It demonstrates practical skills in data analysis, visualization, and workflow d
 - Add export options for charts
 - Extend analysis to messages and posts
 
-SINANAJ Venera
 ## Contact
 
 SINANAJ Venera  
