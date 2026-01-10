@@ -46,3 +46,9 @@ It demonstrates practical skills in data analysis, visualization, and workflow d
 - Extend analysis to messages and posts
 
 SINANAJ Venera
+## Contact
+
+SINANAJ Venera  
+Master’s student in Data Science (DS2E)
+
+This project is part of an ongoing learning process and may evolve over time.
