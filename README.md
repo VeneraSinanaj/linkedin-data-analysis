@@ -39,8 +39,6 @@ This project combines data cleaning, automated analysis, and a graphical interfa
 - Modular analysis selection  
 - Progress tracking and error handling  
 
----
-
 ## Installation
 
 Clone the repository and install dependencies:
@@ -55,8 +53,6 @@ pip install -r requirements.txt
 - Extract the ZIP file and place the relevant CSV files inside the data/ directory.
 - Launch the tool: python linkedin_analyse.py
 - Use the interface to select the analyses you want to run.
-  
----
 
 ## Data Folder
 
@@ -67,8 +63,6 @@ Important:
 - Do not upload personal LinkedIn data to GitHub.
 - Use anonymized examples or keep the folder empty.
 
----
-
 ## Technologies Used
 
 - Python
@@ -77,8 +71,6 @@ Important:
    - tkinter — graphical interface
 - Data preprocessing and harmonization
 - Automated exploratory analysis
-
----
 
 ## Academic Context
 
@@ -92,8 +84,6 @@ It demonstrates practical skills in:
 - GUI development
 - reproducible research practices
 
----
-
 ## Limitations
 
 LinkedIn exports vary depending on:
@@ -106,8 +96,6 @@ Additional considerations:
 - Missing or inconsistent columns may require manual adjustments.
 - No official documentation exists for LinkedIn’s export structure, requiring empirical exploration.
 
----
-
 ## Future Improvements
 
 - Interactive dashboards (Plotly, Streamlit)
@@ -117,21 +105,15 @@ Additional considerations:
 - Multi-user comparison mode
 - Automated report generation (PDF/HTML)
 
----
-
 ## License
 
 This project is released under the MIT License.
 You are free to use, modify, and distribute it.
 
----
-
 ## Contributions
 
 Contributions, suggestions, and improvements are welcome.
 Feel free to open an issue or submit a pull request.
-
----
 
 ## Contact
 
