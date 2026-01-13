@@ -84,6 +84,8 @@ It demonstrates practical skills in:
 - GUI development
 - reproducible research practices
 
+The project was carried out in collaboration with Erleta MZIU and Chimene NOUICER.
+
 ## Limitations
 
 LinkedIn exports vary depending on:
